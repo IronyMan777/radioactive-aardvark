@@ -2,7 +2,7 @@
 
 int Width = 800;
 int Height = 400;
-int framerate = 60
+int framerate = 60;
 
 var font1 = createFont("Times New Roman");
 
@@ -12,5 +12,5 @@ void setup(){
 };
 
 void draw(){
-
+    background(255,255,255);
 };
