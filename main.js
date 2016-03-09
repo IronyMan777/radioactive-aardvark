@@ -1,7 +1,7 @@
 // Doop!
 
 var Width = 800;
-var Height = 400;
+var Height = 600;
 var framerate = 60;
 
 var font1 = createFont("Times New Roman");
